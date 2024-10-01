@@ -85,6 +85,12 @@ Langkah 2: Image Widget
 
 Buat sebuah file image_widget.dart di dalam folder basic_widgets dengan isi kode berikut.
 
+![Gambar](images/Picture13.jpg)
+
+Hasil:
+
+
+![Gambar](images/Picture14.jpg)
 
 
 
