@@ -50,12 +50,47 @@ Lalu klik tombol "Create repository" lalu akan tampil seperti gambar berikut.
 ![Gambar](images/Picture6.jpg)
 
 
-Langkah 3:
-
-Kembali ke VS code, project flutter hello_world, buka terminal pada menu Terminal > New Terminal. Lalu ketik perintah berikut untuk inisialisasi git pada project Anda.
+Setelah membuat repository, project hello_world di push ke github:
 
 
-![Gambar](images/Picture7.jpg)
+![Gambar](images/Picture8.jpg)
+
+
+Langkah 11:
+
+Kembali ke VS Code, ubah platform di pojok kanan bawah ke emulator atau device atau bisa juga menggunakan browser Chrome. Lalu coba running project hello_world dengan tekan F5 atau Run > Start Debugging. Tunggu proses kompilasi hingga selesai, maka aplikasi flutter pertama Anda akan tampil seperti berikut.
+
+
+![Gambar](images/Picture9.jpg)
+
+
+**Praktikum 4: Menerapkan Widget Dasar**
+
+
+Langkah 1: Text Widget
+
+Buat folder baru basic_widgets di dalam folder lib. Kemudian buat file baru di dalam basic_widgets dengan nama text_widget.dart. Ketik atau salin kode program berikut ke project hello_world Anda pada file text_widget.dart.
+
+
+![Gambar](images/Picture10.jpg)
+
+
+![Gambar](images/Picture11jpg)
+
+
+![Gambar](images/Picture12.jpg)
+
+
+Langkah 2: Image Widget
+
+Buat sebuah file image_widget.dart di dalam folder basic_widgets dengan isi kode berikut.
+
+
+
+
+
+
+
 
 
 
